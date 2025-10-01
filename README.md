@@ -4,11 +4,18 @@
 
 ### [Translation]()
 
+### [Chat]()
+
+### [Consultation]()
+
 ### [Creation]()
 
 ### [Vibe Coding]()
 
 ## Principle
+
+### [Role playing]()
+
 
 ## Resources
 
