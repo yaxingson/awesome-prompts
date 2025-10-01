@@ -23,7 +23,8 @@
 
 ### Links
 
-- [deepseek-prompt-library](https://api-docs.deepseek.com/prompt-library)
+- [deepseek prompt library](https://api-docs.deepseek.com/prompt-library)
+- [prompt engineering guide](https://www.promptingguide.ai/)
 
 
 ## Contribution
