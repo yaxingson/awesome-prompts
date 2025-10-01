@@ -2,6 +2,12 @@
 
 ## Purpose
 
+### [Translation]()
+
+### [Creation]()
+
+### [Vibe Coding]()
+
 ## Principle
 
 ## Resources
