@@ -4,15 +4,11 @@
 
 ## Purpose
 
-### [Translation]()
-
-### [Chat]()
-
-### [Consultation]()
-
-### [Creation]()
-
-### [Vibe Coding]()
+<a href=""><img src="https://youke1.picui.cn/s1/2025/10/03/68df8b5235527.png" width="150" title="translation"></a>&nbsp;
+<a href=""><img src="https://youke1.picui.cn/s1/2025/10/03/68df89fba0076.png" width="150" title="chat"></a>&nbsp;
+<a href=""><img src="https://youke1.picui.cn/s1/2025/10/03/68df8bfa21cfe.png" width="150" title="chat"></a>&nbsp;
+<a href=""><img src="https://youke1.picui.cn/s1/2025/10/03/68df8d0a23d27.png" width="150" title="chat"></a>&nbsp;
+<a href=""><img src="https://youke1.picui.cn/s1/2025/10/03/68df8db48c844.png" width="150" title="chat"></a>
 
 ## Principle
 
